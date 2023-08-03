@@ -30,3 +30,14 @@ We also need to have some kind of translation source. Would be cool to work inde
 
 Useful link: https://www.ezzylearning.net/tutorial/asp-net-core-localization-from-database
 (also see comments and previous tuts)
+
+
+
+
+SmartFormat
+-----------
+There seem to be multiple packages for SmartFormat in the NuGet feed.
+There is 'SmartFormat' package, which is the core package,
+and there is 'SmartFormat.NET', which contains all extensions.
+
+For now, I only referenced SmartFormat, ie the core, and I'll see what happens...
