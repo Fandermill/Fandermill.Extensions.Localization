@@ -26,3 +26,7 @@ Would be nice to 'just work' with the AspNetCore localization stuff. With resour
 Sourcing
 --------
 We also need to have some kind of translation source. Would be cool to work independently from the above. But also with AspNetCore localization. There is already an implementation from Damien Bowden (https://github.com/damienbod/AspNetCoreLocalization)
+
+
+Useful link: https://www.ezzylearning.net/tutorial/asp-net-core-localization-from-database
+(also see comments and previous tuts)
